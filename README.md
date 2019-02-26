@@ -3,4 +3,4 @@
  =========================
  *Software Engineering*
 
-![ Free Movies & tv shows Online](project.png)
+![ Free Movies & tv shows Online](project.jpg)
