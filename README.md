@@ -4,7 +4,7 @@
  *Software Engineering*
  
  
- **My Project about app called MYTV able users to watch and download movies and tv shows **  
+My Project about app called MYTV able users to watch and download movies and tv shows  
 =========================
 
 ![ Free Movies & tv shows Online](project.jpg)
