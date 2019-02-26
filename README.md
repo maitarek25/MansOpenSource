@@ -1,5 +1,4 @@
 # MansOpenSource
-
- **Mai Tarek Mohammed **
+**Mai Tarek Mohammed**
  =========================
  *Software Engineering*
